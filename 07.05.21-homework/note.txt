@@ -1,0 +1,8 @@
+Client+in Credit score-u hesablayacayiq
+Tablelar olacaq, birinci user siyahisi olacaq, user-e clickleyende odenis tarixcesi gorunecek
+(modal acilacaq)
+tableda olan insanlarin hansi ki, active borcu var onlari gostere bileciyik
+hem de Ad, Soyadina gore de search ede bilmeliyik
+
+filter()
+
